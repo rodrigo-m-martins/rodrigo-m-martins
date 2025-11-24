@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning:
+  
 [![roadmap.sh](https://roadmap.sh/card/tall/690f8316ce70eef65b99656c?variant=dark&roadmaps=rust)](https://roadmap.sh)
 
 - 🤔 I’m looking for help with my studies on rust, to use it in test automation.
