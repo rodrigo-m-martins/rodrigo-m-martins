@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning:
+[![roadmap.sh](https://roadmap.sh/card/tall/690f8316ce70eef65b99656c?variant=dark&roadmaps=rust)](https://roadmap.sh)
+
+- 🤔 I’m looking for help with my studies on rust, to use it in test automation.
+
+- 📫 How to reach me: ...
+  > rodrigo.m.martinx@gmail.com
 <!--
 **rodrigo-m-martins/rodrigo-m-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
